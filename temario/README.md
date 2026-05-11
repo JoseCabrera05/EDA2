@@ -13,8 +13,8 @@
 
 *El problema central de cualquier sistema que maneja datos: encontrar un elemento entre muchos, lo antes posible. La solución existe —O(log n) frente a O(n)— pero tiene una precondición: los datos deben estar ordenados. Esa precondición lo cambia todo. ¿Cuándo conviene construir con orden desde el principio? ¿Cuándo hay que ordenar después? ¿Y si no queremos ordenar en absoluto?*
 
-- [ ] [Orden y búsqueda](003-ordenYbusqueda/README.md)
-- [ ] [Hashing](004-hashing/README.md)
+- [x] [Orden y búsqueda](003-ordenYbusqueda/README.md)
+- [x] [Hashing](004-hashing/README.md)
 
 ## Abstracción avanzada
 
