@@ -66,6 +66,6 @@ Evaluar si un algoritmo es viable para el problema en cuestión. Distinguir entr
   - [x] [Orden y búsqueda](temario/003-ordenYbusqueda/README.md)
   - [x] [Hashing](temario/004-hashing/README.md)
 - Abstracción avanzada
-  - [ ] [Estructuras de datos avanzadas](temario/005-estructurasDatosAvanzadas/README.md)
+  - [x] [Estructuras de datos avanzadas](temario/005-estructurasDatosAvanzadas/README.md)
 - Paradigmas complementarios
-  - [ ] [Inmutabilidad](temario/006-inmutabilidad/README.md)
+  - [x] [Inmutabilidad](temario/006-inmutabilidad/README.md)
